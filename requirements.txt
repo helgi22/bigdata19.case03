@@ -3,3 +3,4 @@ epub_conversion
 tensorflow
 tflearn
 tqdm
+tflearn

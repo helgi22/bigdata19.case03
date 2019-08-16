@@ -1,0 +1,5 @@
+beautifulsoup4
+epub_conversion
+tensorflow
+tflearn
+tqdm
